@@ -115,34 +115,62 @@ For comparison, a sample result of training 50,000 with the from-scratch NN with
 
 Number correct before network is implemented: 1056 / 10000
 Epoch 0 : 7548 / 10000
+
 Epoch 1 : 9034 / 10000
 Epoch 2 : 9162 / 10000
+
 Epoch 3 : 9218 / 10000
+
 Epoch 4 : 9257 / 10000
+
 Epoch 5 : 9308 / 10000
+
 Epoch 6 : 9339 / 10000
+
 Epoch 7 : 9361 / 10000
+
 Epoch 8 : 9379 / 10000
+
 Epoch 9 : 9389 / 10000
+
 Epoch 10 : 9406 / 10000
+
 Epoch 11 : 9398 / 10000
+
 Epoch 12 : 9427 / 10000
+
 Epoch 13 : 9447 / 10000
+
 Epoch 14 : 9437 / 10000
+
 Epoch 15 : 9423 / 10000
+
 Epoch 16 : 9447 / 10000
+
 Epoch 17 : 9444 / 10000
+
 Epoch 18 : 9440 / 10000
+
 Epoch 19 : 9450 / 10000
+
 Epoch 20 : 9454 / 10000
+
 Epoch 21 : 9463 / 10000
+
 Epoch 22 : 9468 / 10000
+
 Epoch 23 : 9478 / 10000
+
 Epoch 24 : 9459 / 10000
+
 Epoch 25 : 9479 / 10000
+
 Epoch 26 : 9470 / 10000
+
 Epoch 27 : 9471 / 10000
+
 Epoch 28 : 9478 / 10000
+
 Epoch 29 : 9474 / 10000
 
 So, it classified 9474 / 10000 on its last batch (classifying 9478 at its peak).
